@@ -1,7 +1,7 @@
 <h2>Atividade_3</h2>
 <blockquote>
  
-Nome integrantes grupo:
+<b>Nome integrantes grupo:</b>
 <ul>
   <li> João Pedro de Faria - 237610
   <li> João Victor Corsi Ferreira - 218847
@@ -10,7 +10,7 @@ Nome integrantes grupo:
   <li> Vitoria Sue Imamura - 225743
 </ul>
 
-Nome do jogo a ser trabalhado:<br>
+<b>Nome do jogo a ser trabalhado:<br></b>
 <ul>
   <li> Orthokon
 </ul>
