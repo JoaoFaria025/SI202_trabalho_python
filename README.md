@@ -9,7 +9,8 @@ Nome integrantes grupo:
   <li> Victor De Paiva Melo - 245012
   <li> Vitoria Sue Imamura - 225743
 </ul>
-Nome do jogo a ser trabalhado:
+
+Nome do jogo a ser trabalhado:<br>
 <ul>
   <li> Orthokon
 </ul>
