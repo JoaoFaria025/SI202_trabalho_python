@@ -17,5 +17,5 @@
 
 <b>O link para o <i> colab </i> está na imagem abaixo!</b>
 
-[![N|Solid](https://img.icons8.com/nolan/64/nui2.png)](https://colab.research.google.com/drive/1yjg8hPlZbsaYYbtye9uOlQh96pX5qYFm?usp=sharing)</mk>
+[![N|Solid](https://img.icons8.com/nolan/64/nui2.png)](https://colab.research.google.com/drive/1vVHqWy3UGFDYm0_UBQn-_Vna8PAEawlx?usp=sharing)</mk>
 
